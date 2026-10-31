@@ -43,20 +43,6 @@ No installation, backend, account, or API keys required.
 
 Data stays in the browser's LocalStorage; it is **not synchronized** between devices or browsers. Clearing site storage deletes the records. Example records are included to demonstrate the interface. This is a client-side portfolio project, not a hosted production service.
 
-## Ideas for version 2
-
-- Recurring tasks and notification reminders
-- Maintenance history and spending insights
-- Optional account-based synchronization
-
-## Resume-ready project bullet
-
-Developed FixLog, a responsive home-maintenance management app with task and asset CRUD, due-date prioritization, dashboard analytics, and local persistence.
-
-## Suggested GitHub topics
-
-`javascript` `html` `css` `localstorage` `responsive-design` `portfolio-project`
-
 ## License
 
 MIT License. See `LICENSE`.
